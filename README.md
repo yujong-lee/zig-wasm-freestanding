@@ -3,8 +3,6 @@
 - [Zig](https://ziglang.org/documentation/master/#WebAssembly)
 - [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/instantiate)
 
-This repo is using WebAssembly.instantiate().
-
 ## Run
 ```shell
 zig build && node src/main.js
